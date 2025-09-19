@@ -51,5 +51,5 @@ Add Recent Files menu
 
 👨‍💻 Author
 
-Name: R. P. T. Sandeepa Dilhara(Electronics, Communication, and IT undergraduate student)
+Name: R. P. T. Sandeepa Dilhara  (Electronics, Communication, and IT undergraduate student)
 Platform: Linux (Ubuntu)
